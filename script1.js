@@ -23,6 +23,4 @@ class Movie{
 
 // piece of code that creates an instance of the class Movie
 movie1 = new Movie("men in black","lyca Productions","PG13");
-console.log(movie1.title);    // men in black
-console.log(movie1.studio);   // lyca Productions
-console.log(movie1.rating);   // PG13
+console.log(movie1)
